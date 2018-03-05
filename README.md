@@ -1,4 +1,5 @@
 # smart-rockets
+Inspired by http://natureofcode.com/
 
 The source code can be found in  bin/source/
 
